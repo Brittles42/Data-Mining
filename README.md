@@ -18,7 +18,7 @@ Overall, the results indicate that abilify is the most frequently prescribed med
 Based on results, the most frequent co-prescription is abilify and carvedilol. It is recommended that the side effects and long-term side effects of combining both medications are reviewed, and that each patient’s health record analyzed to ensure the reduction of negative medication interactions and worsening health conditions.  There is evidence that this medication combination can significantly lower blood pressure (“Abilify and Carvedilol Interactions”). It would be ideal to monitor blood pressure for all patients that are prescribed abilify and carvedilol. 
 
 
-Part V: Sources
+Part IV: Sources
 
 Raschka, Sebastian. “Association Rules - Mlxtend.” Rasbt.github.io, rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/. Accessed 25 Mar. 2024.
 
