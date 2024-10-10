@@ -26,7 +26,7 @@ Raschka, Sebastian. “Association Rules - Mlxtend.” Rasbt.github.io, rasbt.gi
 
 ---. “TransactionEncoder - Mlxtend.” Rasbt.github.io, rasbt.github.io/mlxtend/user_guide/preprocessing/TransactionEncoder/. Accessed 25 Mar. 2024.
  
-G.  Acknowledge sources, using in-text citations and references, for content that is quoted, paraphrased, or summarized.
+
 
 “Abilify and Carvedilol Interactions.” Drugs.com, www.drugs.com/drug-interactions/abilify-with-carvedilol-233-109-531-0.html#:~:text=Interactions%20between%20your%20drugs&text=ARIPiprazole%20and%20carvedilol%20may%20have. Accessed 26 Mar. 2024.
 
