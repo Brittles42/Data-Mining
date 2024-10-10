@@ -17,7 +17,7 @@ The support values show how frequently the pair of prescriptions occurred. The g
 Overall, the results indicate that abilify is the most frequently prescribed medication and is often co-prescribed with carvedilol. If abilify is not co-prescribed with carvedilol then diazepam prescription is likely. If abilify is not co-prescribed with diazepam or carvedilol, then amphetamine salt combo xr prescription is likely, but the frequency of this occurring is not as high as the previous rules mentioned. 
 
 
-Based on results, the most frequent co-prescription is abilify and carvedilol. It is recommended that the side effects and long-term side effects of combining both medications are reviewed, and that each patient’s health record analyzed to ensure the reduction of negative medication interactions and worsening health conditions.  There is evidence that this medication combination can significantly lower blood pressure (“Abilify and Carvedilol Interactions”). It would be ideal to monitor blood pressure for all patients that are prescribed abilify and carvedilol. 
+Based on results, the most frequent co-prescription is abilify and carvedilol, and it is recommended that the side effects and long-term effects of combining both medications are reviewed, and that each patient’s health record analyzed to ensure the reduction of negative medication interactions and worsening health conditions.  There is evidence that this medication combination can significantly lower blood pressure (“Abilify and Carvedilol Interactions”). It would be ideal to monitor blood pressure for all patients that are prescribed abilify and carvedilol. 
 
 
 Part IV: Sources
