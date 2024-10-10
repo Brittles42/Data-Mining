@@ -1,4 +1,4 @@
-# Data-Mining
+# Data Mining
 Market Basket Analysis
 
 Part I: Research Question
